@@ -5,6 +5,6 @@ Useful to identify mislabeled examples.
 
 Developed as a course project for [CSC2506 - Probabilistic Learning and Reasoning (2017)](https://www.cs.toronto.edu/~duvenaud/courses/csc412/index.html).
 
-Refer to [the paper](Latent Class Logistic Regression.pdf) for more details.
+Refer to [the paper](./Latent\ Class\ Logistic\ Regression.pdf) for more details.
 
 
